@@ -4,7 +4,7 @@
 
 # Customer Service Performance & Ticket Analysis | Power BI
 
-Find the live version here: https://app.powerbi.com/groups/me/reports/9fd7fff8-7569-4fc2-91f9-4deb51f4808c/f1aab6ca011b1db6e431?experience=power-bi
+Find the live interactive version here: https://app.powerbi.com/groups/me/reports/9fd7fff8-7569-4fc2-91f9-4deb51f4808c/f1aab6ca011b1db6e431?experience=power-bi
 
 This Power BI dashboard analyzes customer service tickets from August to September. It focuses on ticket resolution, response time, customer satisfaction, and common customer issues.
 
