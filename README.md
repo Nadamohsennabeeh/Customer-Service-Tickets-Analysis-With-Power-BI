@@ -2,6 +2,7 @@
 <img width="1600" height="900" alt="WhatsApp Image 2026-11-04 at 6 54 59 PM" src="https://github.com/user-attachments/assets/fa5bb23e-474a-4bbd-8892-fb2997d18b44" />
 <img width="1600" height="900" alt="WhatsApp Image 2026-11-04 at 6 55 15 PM" src="https://github.com/user-attachments/assets/51e564ab-5334-4b1c-8f77-27113fcffac1" />
 # Customer Service Performance & Ticket Analysis | Power BI
+
 Find the live version here: https://app.powerbi.com/groups/me/reports/9fd7fff8-7569-4fc2-91f9-4deb51f4808c/f1aab6ca011b1db6e431?experience=power-bi
 
 This Power BI dashboard analyzes customer service tickets from August to September. It focuses on ticket resolution, response time, customer satisfaction, and common customer issues.
